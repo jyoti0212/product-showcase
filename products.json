@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "Product A",
+      "price": "$19.99",
+      "image": "images/product_a.jpg",
+      "short_desc": "Short description of Product A.",
+      "full_desc": "Full detailed description of Product A."
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": "$29.99",
+      "image": "images/product_b.jpg",
+      "short_desc": "Short description of Product B.",
+      "full_desc": "Full detailed description of Product B."
+    }
+  ]
+  
