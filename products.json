@@ -1,19 +1,66 @@
 [
-    {
-      "id": 1,
-      "name": "Product A",
-      "price": "$19.99",
-      "image": "images/product_a.jpg",
-      "short_desc": "Short description of Product A.",
-      "full_desc": "Full detailed description of Product A."
-    },
-    {
-      "id": 2,
-      "name": "Product B",
-      "price": "$29.99",
-      "image": "images/product_b.jpg",
-      "short_desc": "Short description of Product B.",
-      "full_desc": "Full detailed description of Product B."
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "UltraView 24 MONITOR" ,
+    "price": "$119.99",
+    "image": "images/product_a.jpg",
+    "short_desc": "Short description of UltraView 24 MONITOR.",
+    "full_desc": "Full detailed description of UltraView 24 MONITOR."
+  },
+  {
+    "id": 2,
+    "name": "SonicBass Wireless Headphones",
+    "price": "$59.99",
+    "image": "images/product_b.jpg",
+    "short_desc": "Short description of SonicBass Wireless Headphones.",
+    "full_desc": "Full detailed description of SonicBass Wireless Headphones."
+  },
+  {
+    "id": 3,
+    "name": "SkyShade Polarized Sunglasses",
+    "price": "$34.99",
+    "image": "images/product_c.jpg",
+    "short_desc": "Short description of SkyShade Polarized Sunglasses",
+    "full_desc": "Full detailed description of SkyShade Polarized Sunglasses."
+  },
+  {
+    "id": 4,
+    "name": "SwiftFit Smartwatch",
+    "price": "$89.99",
+    "image": "images/product_d.jpg",
+    "short_desc": "Short description of SwiftFit Smartwatch",
+    "full_desc": "Full detailed description of SwiftFit Smartwatch"
+  },
+  {
+    "id": 5,
+    "name": "FreshGlow Organic Moisturizer",
+    "price": "$14.99",
+    "image": "images/product_e.jpg",
+    "short_desc": "Short description of FreshGlow Organic Moisturizer",
+    "full_desc": "Full detailed description of FreshGlow Organic Moisturizer."
+  },
+  {
+    "id": 6,
+    "name": "UrbanEdge Crossbody Bag",
+    "price": "$34.99",
+    "image": "images/product_f.jpg",
+    "short_desc": "Short description of UrbanEdge Crossbody Bag.",
+    "full_desc": "Full detailed description of UrbanEdge Crossbody Bag"
+  },
+  {
+    "id": 7,
+    "name": "PowerMate 10,000mAh Power Bank",
+    "price": "$32.49",
+    "image": "images/product_g.jpg",
+    "short_desc": "Short description of PowerMate 10,000mAh Power Bank.",
+    "full_desc": "Full detailed description of PowerMate 10,000mAh Power Bank."
+  },
+  {
+    "id": 8,
+    "name": "SnapPro Mini Tripod",
+    "price": "$24.99",
+    "image": "images/product_h.jpg",
+    "short_desc": "Short description of SnapPro Mini Tripod.",
+    "full_desc": "Full detailed description of SnapPro Mini Tripod."
+  }
+]
