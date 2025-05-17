@@ -3,7 +3,7 @@
     "id": 1,
     "name": "UltraView 24 MONITOR",
     "price": "$119.99",
-    "image": "Screenshot 2025-05-16 092450.png",
+    "image": "Screenshot 2025-05-17 220842.png",
     "short_desc": "Compact, high-resolution 24-inch monitor.",
     "full_desc": "The UltraView 24 MONITOR offers vibrant colors, ultra-sharp resolution, and ergonomic design for comfortable all-day use."
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "SonicBass Wireless Headphones",
     "price": "$59.99",
-    "image": "Screenshot 2025-05-16 092927.png",
+    "image": "Screenshot 2025-05-17 220903.png",
     "short_desc": "Wireless headphones with rich sound and deep bass.",
     "full_desc": "SonicBass headphones deliver crisp audio, long battery life, and comfortable ear cushions for immersive listening."
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "name": "SkyShade Polarized Sunglasses",
     "price": "$34.99",
-    "image": "Screenshot 2025-05-16 093041.png",
+    "image": "Screenshot 2025-05-17 220807.png",
     "short_desc": "Stylish polarized sunglasses for eye protection.",
     "full_desc": "SkyShade sunglasses reduce glare and UV exposure while adding a fashionable look to your outfit."
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "name": "SwiftFit Smartwatch",
     "price": "$89.99",
-    "image": "Screenshot 2025-05-16 093741.png",
+    "image": "Screenshot 2025-05-17 220927.png",
     "short_desc": "Feature-rich smartwatch with fitness tracking.",
     "full_desc": "SwiftFit Smartwatch helps you stay fit and connected with heart-rate monitoring, message alerts, and water resistance."
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "FreshGlow Organic Moisturizer",
     "price": "$14.99",
-    "image": "Screenshot 2025-05-16 094523.png",
+    "image": "Screenshot 2025-05-17 220941.png",
     "short_desc": "Gentle moisturizer made with organic ingredients.",
     "full_desc": "FreshGlow Organic Moisturizer hydrates and nourishes your skin naturally, suitable for all skin types and daily use."
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "name": "Classy Crossbody Bag",
     "price": "$34.99",
-    "image": "Screenshot 2025-05-16 100004.png",
+    "image": "Screenshot 2025-05-17 220817.png",
     "short_desc": "Elegant and compact crossbody bag for daily use.",
     "full_desc": "This Classy Crossbody Bag combines convenience with style, offering multiple compartments and premium faux-leather finish."
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "name": "PowerMate 10,000mAh Power Bank",
     "price": "$32.49",
-    "image": "Screenshot 2025-05-16 100256.png",
+    "image": "Screenshot 2025-05-17 220830.png",
     "short_desc": "Slim power bank with fast charging support.",
     "full_desc": "PowerMate keeps your devices charged with dual USB output, LED charge indicators, and reliable 10,000mAh capacity."
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "name": "SnapPro Mini Tripod",
     "price": "$24.99",
-    "image": "Screenshot 2025-05-16 101010.png",
+    "image": "Screenshot 2025-05-17 220914.png",
     "short_desc": "Compact tripod for smartphones and cameras.",
     "full_desc": "SnapPro Mini Tripod features adjustable angles, strong grip legs, and lightweight design for travel vlogging or photography."
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "name": "RoboSweep Smart Vacuum",
     "price": "$149.99",
-    "image": "Screenshot 2025-05-16 132558.png",
+    "image": "Screenshot 2025-05-17 220756.png",
     "short_desc": "Smart robot vacuum cleaner with auto-scheduling.",
     "full_desc": "RoboSweep Smart Vacuum automatically cleans your floors with intelligent mapping, obstacle detection, and a quiet, powerful motor. Perfect for daily maintenance on hardwood, tile, and low carpets."
   }
